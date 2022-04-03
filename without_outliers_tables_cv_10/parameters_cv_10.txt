@@ -1,0 +1,6 @@
+{'dtc': {'criterion': 'entropy', 'max_depth': 9, 'splitter': 'random'},
+ 'gnb': {'var_smoothing': 0.01},
+ 'knc': {'algorithm': 'auto', 'n_neighbors': 1},
+ 'lr': {'C': 0.1},
+ 'rfc': {'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 200},
+ 'svc': {'C': 1.2, 'gamma': 0.8, 'kernel': 'rbf'}}
