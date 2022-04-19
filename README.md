@@ -12,3 +12,4 @@ The classifiers we used were:
 7. Neural Network (NN)
 
 We also used sklearn's **GridSearchCV** to exhaustively search for the best parameters to tune the classifiers.
+Based on our testing, we found out that the **Random Forest Classifier** has the best performance compared to the others tested models.
